@@ -1,2 +1,2 @@
-# joesafe-contracts
-Contracts for joesafe.network liquidity locker.
+# Snowsale Contracts Reporsitory
+Contracts for snowsale platform.
